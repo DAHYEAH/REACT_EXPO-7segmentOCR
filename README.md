@@ -1,1 +1,1 @@
-"# REACT_EXPO-7segmentOCR-" 
+"# REACT_EXPO-7segmentOCR" 
